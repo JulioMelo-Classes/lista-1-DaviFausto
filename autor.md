@@ -2,16 +2,16 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\<__insira seu nome aqui__>*
-- Email: *\<insira seu email aqui>*
-- Turma: *\<insira sua turma aqui>*
+- Nome: Davi Fausto
+- Email: davi.fausto@hotmail.com
+- Turma: IMD0030 - T01
 
 # Questões Finalizadas
 
-- [ ] Negativos 5
-- [ ] Soma Vizinhos
+- [X] Negativos 5
+- [X] Soma Vizinhos
 - [ ] Intervalos
-- [ ] Fibonacci
+- [X] Fibonacci
 - [ ] Minmax
 - [ ] Inverter
 - [ ] Filtragem

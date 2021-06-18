@@ -2,11 +2,24 @@
 using std::cin;
 using std::cout;
 
+using namespace std;
+
 const int SIZE = 5; // input size.
 
 int main(void)
 {
-    // TODO: Adicione aqui seu código.
+  int Negativos = 0;
+  int Numero;
 
-    return 0;
+  for(int x = 0; x < 5; x++){
+    cin>>Numero;
+    if(Numero < 0){
+      Negativos++;
+    }
+  }
+
+  cout<<Negativos;
+
+  
+  return 0;
 }
