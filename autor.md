@@ -10,6 +10,7 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 
 - [X] Negativos 5
 - [X] Soma Vizinhos
+- [ ] Soma Vizinhos
 - [ ] Intervalos
 - [X] Fibonacci
 - [ ] Minmax
