@@ -12,6 +12,8 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 - [X] Soma Vizinhos
 - [X] Soma Vizinhos
 - [X] Intervalos
+- [ ] Soma Vizinhos
+- [ ] Intervalos
 - [X] Fibonacci
 - [X] Minmax
 - [ ] Inverter
