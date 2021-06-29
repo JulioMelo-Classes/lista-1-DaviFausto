@@ -13,7 +13,7 @@ using std::setprecision;
 using namespace std;
 
 // Se desejar, crie funções aqui, antes do main().
-
+/*ok*/
 int main(void)
 {
     double int0 = 0, int1 = 0, int2 = 0, int3 = 0, int4 = 0, soma = 0;

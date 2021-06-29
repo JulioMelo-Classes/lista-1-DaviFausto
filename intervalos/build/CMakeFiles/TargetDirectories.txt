@@ -1,4 +1,0 @@
-/home/runner/LP1-ATIV-1/lista-1-DaviFausto/intervalos/build/CMakeFiles/rebuild_cache.dir
-/home/runner/LP1-ATIV-1/lista-1-DaviFausto/intervalos/build/CMakeFiles/program.dir
-/home/runner/LP1-ATIV-1/lista-1-DaviFausto/intervalos/build/CMakeFiles/edit_cache.dir
-/home/runner/LP1-ATIV-1/lista-1-DaviFausto/intervalos/build/CMakeFiles/verify.dir

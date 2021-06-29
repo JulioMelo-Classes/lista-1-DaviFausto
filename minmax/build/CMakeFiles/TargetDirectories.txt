@@ -1,5 +1,0 @@
-/home/runner/LP1-ATIV-1/lista-1-DaviFausto/minmax/build/CMakeFiles/edit_cache.dir
-/home/runner/LP1-ATIV-1/lista-1-DaviFausto/minmax/build/CMakeFiles/run_tests.dir
-/home/runner/LP1-ATIV-1/lista-1-DaviFausto/minmax/build/CMakeFiles/rebuild_cache.dir
-/home/runner/LP1-ATIV-1/lista-1-DaviFausto/minmax/build/CMakeFiles/func.dir
-/home/runner/LP1-ATIV-1/lista-1-DaviFausto/minmax/build/CMakeFiles/all_tests.dir
